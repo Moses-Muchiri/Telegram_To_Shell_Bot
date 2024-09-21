@@ -1,0 +1,22 @@
+#Environment Variables
+.env
+
+# Python Bytecode and Configuration files
+__pycache__/
+*.pyc
+*.pyo
+*.cfg
+
+# Virtual Environment
+venv/
+env/
+
+# Log files
+*.log
+
+#Text Files
+*.txt
+!requirements.txt
+
+#Uploads Folder
+uploads/
